@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Manash Pratim Kalita</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![logo](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
+<h1 align="center">Hi , I'm Manash Pratim Kalita</h1>
+<h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manash05&label=Profile%20views&color=0e75b6&style=flat" alt="manash05" /> </p>
 
@@ -9,9 +10,9 @@
 
 - 🌱 I’m currently learning **Python, C, JavaScript**
 
-- 📫 How to reach me **manashpk05@gmail.com**
+- 📫 How to reach me - **manashpk05@gmail.com**
 
-- ⚡ Fun fact **I am human**
+- ⚡ Fun fact - **I am human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
